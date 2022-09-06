@@ -98,7 +98,7 @@ Please check <i>ProfileWeightedSum.py</i> and <i>ProfileWeightedSumMacro.ijm</i>
 </html>
 
 ## Documentation
-&nbsp;&nbsp; [Java Documentation](./javadoc/)
+&nbsp;&nbsp; [Java Documentation](./javadoc/index.html)
 
 ## Examples
 &nbsp;&nbsp; [Example Directory](./examples)
