@@ -98,19 +98,14 @@ Please check <i>ProfileWeightedSum.py</i> and <i>ProfileWeightedSumMacro.ijm</i>
 </html>
 
 ## Documentation
-&nbsp;&nbsp; [Java Documentation](javadoc/index.html)
+&nbsp;&nbsp; [Java Documentation](./javadoc/)
 
 ## Examples
-&nbsp;&nbsp; [Example Directory](examples)
+&nbsp;&nbsp; [Example Directory](./examples)
 
 ## License: 
-<html>
-<body>
-<p style="margin-left:1%; margin-right:0%;text-indent:0%">
-MIT License
-</p>
-</body>
-</html>
+&nbsp;&nbsp; [MIT License](./LICENSE)
+
 
 I welcome comments, suggestions, bug reports, etc.
 
