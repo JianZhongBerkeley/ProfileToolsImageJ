@@ -18,11 +18,22 @@ Profile Tools is a plugin dedicated for profile processing and analyzing in Imag
 </body>
 </html>
 
+## Demo
+<img src="./readmeresources/ProfileToolsDemo.gif" width="614" height="470" />
+
+<html>
+<body>
+<p>
+<br>
+</p>
+</body>
+</html>
+
 ## Installation guide
 <html>
 <body>
 <p style="margin-left:1%; margin-right:0%; text-indent:0%">
-Profile Tools requires Jep and Numpy to run Python scripts.
+Profile Tools requires Java Embedded Python (Jep) and Numpy to run Python scripts.
 </p>  
 <p style="margin-left:1%; margin-right:0%; text-indent:0%"><b>
  Prerequisite  
@@ -36,7 +47,7 @@ Before installing Jep, make sure the following are completed.
 </ul>
 </p> 
 <p style="margin-left:1%; margin-right:0%; text-indent:0%"><b>
-Setup Java embedded Python (Jep)
+Setup Java Embedded Python (Jep)
  </b></p>
 <p style="margin-left:2%; margin-right:0%; text-indent:0%">
 Install Jep (e.g. install Jep using <code>pip install</code>)<br>  
