@@ -18,7 +18,7 @@ Profile Tools is a plugin dedicated for profile processing and analyzing in Imag
 </body>
 </html>
 
-## Installation Guide
+## Installation guide
 <html>
 <body>
 <p style="margin-left:1%; margin-right:0%; text-indent:0%">
@@ -54,7 +54,7 @@ Restart ImageJ
 </html>
 
 
-## Tested dependencies:  
+## Tested dependencies  
 &nbsp; Java SE 1.8  
 &nbsp; Jep 4.0.6  
 &nbsp; Python 3.10.6  
@@ -98,13 +98,14 @@ Please check <i>ProfileWeightedSum.py</i> and <i>ProfileWeightedSumMacro.ijm</i>
 </html>
 
 ## Documentation
-&nbsp;&nbsp; [Java Documentation](./javadoc/index.html)
+&nbsp;&nbsp; [Java documentation](./javadoc)
 
 ## Examples
-&nbsp;&nbsp; [Example Directory](./examples)
+&nbsp;&nbsp; [ImageJ macro examples](./examples/Macros/)  
+&nbsp;&nbsp; [Python script examples](./examples/PythonScript/)
 
-## License: 
-&nbsp;&nbsp; [MIT License](./LICENSE)
+## License 
+&nbsp;&nbsp; [MIT license](./LICENSE)
 
 
 I welcome comments, suggestions, bug reports, etc.
