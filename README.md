@@ -111,6 +111,9 @@ Please check <i>ProfileWeightedSum.py</i> and <i>ProfileWeightedSumMacro.ijm</i>
 ## Documentation
 &nbsp;&nbsp; [Java documentation](./javadoc)
 
+## GitHub repository
+&nbsp;&nbsp; [GitHub repository](https://github.com/JianZhongBerkeley/ProfileToolsImageJ)  
+
 ## Examples
 &nbsp;&nbsp; [ImageJ macro examples](./examples/Macros/)  
 &nbsp;&nbsp; [Python script examples](./examples/PythonScript/)
